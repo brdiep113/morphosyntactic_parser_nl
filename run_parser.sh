@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python -m alpinonaf
+python3 -m alpinonaf
 
 #For instance to set the maximum number of minutes per sentence to 5 minutes:
 ###python $this_dir/core/morph_syn_parser.py -t 5
